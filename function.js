@@ -1,4 +1,4 @@
-/** code by webdevtrick ( https://webdevtrick.com ) **/
+/** code by webdevtrick (( https://webdevtrick.com )) **/
 const year = new Date().getFullYear();
 const choosenDate = new Date(year, 7, 6).getTime();
 
